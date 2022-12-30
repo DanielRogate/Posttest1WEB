@@ -1,1 +1,2 @@
-print("Daniel ini bg")
+print("Daniel")
+print("SI B")
